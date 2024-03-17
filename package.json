@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Repositório criado para acompanhar o projeto \"tabnews.com.br\" do curso \"curso.dev\" do Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Thaissa Barbosa",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
