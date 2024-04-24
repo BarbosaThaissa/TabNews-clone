@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Teste 33</h1>
+  return <h1>Corigindo o arquivo .nvmrc</h1>;
 }
 
 export default Home;
