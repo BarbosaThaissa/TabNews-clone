@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Corigindo o arquivo .nvmrc</h1>;
+  return <h1>Vai ser uma aplicação relacionada a filmes e series</h1>;
 }
 
 export default Home;
